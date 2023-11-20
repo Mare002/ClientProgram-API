@@ -1,0 +1,3 @@
+C:/Users/macek/Documents/API/uloha3/cmake-build-debug/CMakeFiles/uloha3.dir
+C:/Users/macek/Documents/API/uloha3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/macek/Documents/API/uloha3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

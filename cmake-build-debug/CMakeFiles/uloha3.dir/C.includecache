@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/macek/Documents/API/uloha3/uloha3.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+winsock2.h
+-
+ws2tcpip.h
+-
+windows.h
+-
+
